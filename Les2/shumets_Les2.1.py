@@ -17,7 +17,7 @@ Nickname = 'weronika'
 print(Nickname)
 print(id(Nickname))
 
-Nickname = 'weronika'
+Nickname1 = 'weronika'
 print(Nickname)
 print(id(Nickname))
 
